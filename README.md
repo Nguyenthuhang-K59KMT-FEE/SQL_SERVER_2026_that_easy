@@ -89,6 +89,8 @@ Mở file dulieu.sql của bước 14, chạy toàn bộ các lệnh kết quả
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8ec3aef3-2cf6-494f-82c1-cb191741ddf5" />
 
 Upload file dulieu.sql lên github repository
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2913c35a-9fa4-44e0-bd69-8b7ed3ed3148" />
+
 
 
 
